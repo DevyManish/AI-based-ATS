@@ -1,6 +1,6 @@
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
-![Smart ATS](https://socialify.git.ci/DevyManish/AI-based-ATS/image?description=1&descriptionEditable=AI%20based%20ATS%20for%20Resume%20Analysis&font=RalewayManish GuptaDevyManish/AI-based-ATS&language=1&pattern=Plus&theme=Light)
+![Smart ATS](https://github.com/DevyManish/AI-based-ATS/blob/main/screenshots/banner.png?raw=true)
 
 <div align="center">
   <h1>🎯 SMART ATS 🎯</h1>
@@ -35,7 +35,7 @@
 
 ## About the Project 📄
 <div align="center">
-    <br/><img src="https://your-image-url.com/screenshot.png" alt="screenshot" /><br/><br/>
+    <br/><img src="https://github.com/DevyManish/AI-based-ATS/blob/main/screenshots/home.png?raw=true" alt="screenshot" /><br/><br/>
     <p align="justify"> 
       SMART ATS is an application designed to assist job seekers in improving their resumes. Utilizing advanced AI algorithms, it analyzes resumes based on job descriptions, providing recommendations and insights to enhance employability.
     </p>
