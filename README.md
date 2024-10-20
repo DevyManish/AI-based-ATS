@@ -128,12 +128,14 @@ pip install -r requirements.txt
 
 ``Congratulations 🥳😱 your set-up 👆 and installation is finished 😵🤯``
 
-I hope that your ``venvapp`` is activated and working directory is inside ``App``
+I hope that your ``venvapp`` is activated .
 
 Run the ```App.py``` file using
 ```bash
 streamlit run app.py
 ```
+
+Open ```http://localhost:8501/``` in your browser.
 
 ## Preview 👽
 
