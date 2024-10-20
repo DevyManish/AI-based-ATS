@@ -1,4 +1,6 @@
 streamlit
+google-generativeai
 PyPDF2
-google.generativeai
+pandas
+plotly
 python-dotenv
