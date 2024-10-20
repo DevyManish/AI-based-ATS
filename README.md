@@ -1,9 +1,9 @@
-<p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
+
 
 ![Smart ATS](https://github.com/DevyManish/AI-based-ATS/blob/main/screenshots/banner.png?raw=true)
 
 <div align="center">
-  <h1>🎯 SMART ATS 🎯</h1>
+  <h1>🎯AI Based ATS & Resume Analyser 🎯</h1>
   <p>A Tool for Resume Analysis and Recommendations</p>
   <!-- Badges -->
   <p>
@@ -22,7 +22,7 @@
     <span> · </span>
     <a href="#setup--installation-">Installation</a>
     <span> · </span>
-    <a href="mailto:your-email@example.com?subject=Request%20for%20Project%20Report%20of%20SMART%20ATS&body=Here%20are%20my%20details:%0D%0A%0D%0AFull%20Name:%20%0D%0A%0D%0AGitHub%20Profile:%20%0D%0A%0D%0AOrganization%2FCollege%20Name:%20%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfies%20your%20identity%2C%20you%20will%20get%20the%20report%20to%20your%20email.">Project Report</a>
+    <a href="#">Project Report</a>
   </h4>
   <p>
     <small align="justify">
@@ -43,8 +43,8 @@
 
 ## Scope 🌍
 1. Provides detailed analysis and structured feedback on resumes.
-2. Offers keyword optimization suggestions to improve ATS compatibility.
-3. Allows users to upload multiple resumes for comparative analysis.
+2. Offers keyword optimization suggestions to improve ATS compatibility.(Under Development) 
+3. Allows HRs to upload multiple resumes for comparative analysis.
 4. Generates visual insights like charts to represent candidates' relevance to job listings.
 5. Can be utilized by educational institutions to guide students in resume building.
 
@@ -85,16 +85,13 @@
 </details>
 
 ## Features 🔍
+
 ### User:
 - Upload multiple resumes for analysis.
 - View detailed reports on JD match percentage and missing keywords.
 - Receive actionable insights to improve resumes based on job descriptions.
 - Visual representation of candidate relevance through charts.
 
-### Admin:
-- Monitor and analyze user submissions and feedback.
-- Generate reports for user activity.
-- Access feedback and ratings from users for continuous improvement.
 
 ## Requirements 🚀
 ### Ensure you have the following:
@@ -123,7 +120,7 @@ cd venvapp/Scripts
 activate
 ```
 
-Downloading packages from ```requirements.txt``` inside ``App`` folder
+Downloading packages from ```requirements.txt``` 
 ```bash
 pip install -r requirements.txt
 ```
@@ -135,12 +132,11 @@ I hope that your ``venvapp`` is activated and working directory is inside ``App`
 
 Run the ```App.py``` file using
 ```bash
-streamlit run App.py
+streamlit run app.py
 ```
 
 ## Preview 👽
 
-### Client Side
 
 **Main Screen**
 
