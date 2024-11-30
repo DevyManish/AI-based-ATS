@@ -1,6 +1,4 @@
+python-docx
 streamlit
-google-generativeai
 PyPDF2
-pandas
-plotly
-python-dotenv
+requests
